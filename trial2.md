@@ -5,4 +5,4 @@ Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they 
 
 
 # Iצשכק
-![alt text](Users/OneDrive/Documents/GitHub/research-methods---Ofek/Image/_c1eee2a4-34fe-421c-ad3d-9e91a2a96c88.jpg)
+![alt text](Image/_c1eee2a4-34fe-421c-ad3d-9e91a2a96c88.jpg)
