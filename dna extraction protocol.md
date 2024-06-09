@@ -34,12 +34,10 @@
 
 for microbial culture sample the starting amout is 0.2-2 mL
 ## Before you begin
-1. Before first use of the kit: prepare S5—Wash Buffer
+1. Before **first** use of the kit: prepare S5—Wash Buffer.
 Add 13 mL of 96–100% ethanol to S5—Wash Buffer Concentrate ,
 mix well, and store at room temperature.
-2. If precipitate is visible in S1—Lysis Buffer or S4—Binding buffer,
-warm the buffers at 37°C for 5 minutes and shake well to dissolve
-the precipitate.
+2. Before **each** use of the kit:If precipitate is visible in S1—Lysis Buffer or S4—Binding buffer,warm the buffers at 37°C for 5 minutes and shake well to dissolve the precipitate.
 
 ## step 1 - Prepare the lysate
 **a.** Centrifuge the sample at 14,000 × g for 10 minutes to pellet the microorganisms.
@@ -53,9 +51,9 @@ Use an appropriately sized centrifuge tube; do not use a Bead Tube.
 Avoid disturbing the microbial pellet during this step. Loss of pellet will result in decreased
 yield.
 
-**c.** Resuspend the microbial pellet in 800 µL of S1—Lysis buffer, pipet up and down or vortex to resuspend, then transfer the sample to the Bead Tube.
+**c.** Resuspend the microbial pellet in 800 µL of <span style="color: yellow;">S1</span>—Lysis buffer, pipet up and down or vortex to resuspend, then transfer the sample to the Bead Tube.
 
-**d.** Add 100 µL of S2—Lysis Enhancer, cap securely, and vortex briefly.
+**d.** Add 100 µL of <span style="color: yellow;">S2</span>—Lysis Enhancer, cap securely, and vortex briefly.
 
 **e.** Incubate at 65°C for 10 minutes.
 
@@ -68,19 +66,19 @@ Use the hands-free adapter and horizontal agitation.
 **h.** Transfer up to 500 µL of the supernatant to a clean microcentrifuge tube (Eppendorf tube), avoiding the bead pellet
 and any debris.
 ## step 2 - Bind the DNA to the column 
-**a.** Add 900 µL of S4—Binding buffer, and vortex briefly.
+**a.** Add 900 µL of <span style="color: yellow;">S4</span>—Binding buffer, and vortex briefly.
 
 **b.** Load 700 µL of the sample mixture onto a spin column-tube assembly, and centrifuge at14,000 × g for 1 minute.
 
 **c.** Discard the flow-through and repeat step 2b with the remaining sample mixture.
 ## step 3 - Wash and elute the DNA
-**a.** Place the spin column in a clean collection tube, add 500 µL of S5—Wash buffer, then centrifuge the spin column-tube assembly at 14,000 × g for 1 minute.
+**a.** Place the spin column in a clean collection tube, add 500 µL of <span style="color: yellow;">S5</span>—Wash buffer, then centrifuge the spin column-tube assembly at 14,000 × g for 1 minute.
 
 **b.** Discard the flow-through then centrifuge the spin column-tube assembly at 14,000 × g for 30 seconds.
 
-The second centrifugation optimizes removal of S5—Wash buffer, which could interfere with downstream applications.
+The second centrifugation optimizes removal of <span style="color: yellow;">S5</span>—Wash buffer, which could interfere with downstream applications.
 
-**c.** Place the spin column in a clean tube, add 100 µL of S6—Elution buffer, then incubate at room temperature for 1 minute.
+**c.** Place the spin column in a clean tube, add 100 µL of <span style="color: yellow;">S6</span>—Elution buffer, then incubate at room temperature for 1 minute.
 
 **d.** Centrifuge the spin column-tube assembly at 14,000 × g for 1 minute, then discard the column.
 The purified DNA is in the tube
@@ -90,7 +88,6 @@ The DNA is ready for immediate use. Alternatively, store the purified DNA:
 - At 4°C for up to 1 week.
 - At –20°C for long-term storage.
 
-I need to highlight these ==S1,S2,S3,S4,S5,S6==.
 
 [Online protocol](https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2Fmanuals%2FMAN0014332_PureLinkMicrobiome_CultureMedia_UG.pdf)
 
