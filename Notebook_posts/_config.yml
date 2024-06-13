@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name:
+name: Ofek Rainish
 
 # Short bio or description (displayed in the header)
-description:
+description: Ms student, Haifa UN
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ""
+avatar: "![alt text](Notebook_posts/images/תמונה.jpeg)"
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: ""
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: ofekr571@gmail.com
+  facebook:  ofek rainish
   flickr:
-  github:
+  github: OfekRainish
   instagram:
   linkedin:
   pinterest:
