@@ -21,9 +21,10 @@ Specific primers will be designed using [Primer3](https://primer3.ut.ee/), and t
 
 For gene expression quantification, RNA will be extracted from the samples and its quality assessed using NanoDrop and gel electrophoresis. This RNA will then be converted into cDNA, and qPCR will be performed using the GAPDH gene for normalization. The resulting data will be analyzed statistically to determine significant differences in gene expression across the various treatment conditions using [this](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/scripts/R%20script%20ggplot.r) R script, and by [this](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/posts/2024-07-05-Protocol%20for%20Analyzing%20qPCR%20Results%20class.md) protocol.
 
-
-
 ![alt text](images/proposal.png)
+
+In addition to the wet work, bioinformatic analysis was conducted.
+We wanted to see which species Gracilaria gracilis is close to and it is possible that they behave similarly to Gracilaria gracilis in response to different light and radiation conditions. For this purpose we built a phylogenetic tree according to [this]() protocol.
 
 ### Impact
 
