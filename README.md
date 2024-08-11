@@ -8,6 +8,7 @@ Our study aims to investigate the impact of varying light intensities and UV rad
 
 ![alt text](images/Gracilaria gracilis.png)
 
+
 To study the impact of light and UV radiation on *Gracilaria gracilis*, samples will be collected from the Israeli Mediterranean coast, ensuring that collection times are consistent to minimize variability. After rinsing, these samples will be placed in aerated seawater aquariums. 
 
 In the controlled environment, multiple aquariums will be prepared, each exposed to different light intensities and UV radiation levels using LED lights and UVB lamps. A control group will be maintained with all other environmental factors, such as temperature, salinity, and nutrients, kept constant. Samples will be harvested after 2, 4, and 6 weeks to assess the effects over time.
