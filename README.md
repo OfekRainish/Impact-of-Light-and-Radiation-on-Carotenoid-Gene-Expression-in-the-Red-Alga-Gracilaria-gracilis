@@ -4,21 +4,29 @@ Global warming is significantly impacting marine ecosystems by raising water tem
 
 Carotenoids, pigments crucial for photosynthesis, also protect algae from light-induced stress. They help absorb excess light and neutralize harmful free radicals, thus safeguarding the photosynthetic machinery. In the context of global warming, which is expected to increase UVB radiation and alter light intensity, understanding how *G. gracilis* modulates carotenoid production is essential for predicting its resilience and adaptability.
 
-Our study aims to investigate the impact of varying light intensities and UV radiation on carotenoid gene expression in *G. gracilis*, simulating current and future climate scenarios. We will expose the algae to low, medium, and high light and UV levels over six weeks, mimicking natural day-night cycles. Using quantitative PCR (qPCR) with 16S rRNA as a reference gene, we will measure changes in carotenoid gene expression. This research will provide insights into how *G. gracilis* responds to environmental stressors linked to climate change and offer guidance for optimizing its commercial cultivation to produce high-value carotenoids.
+Our study aims to investigate the impact of varying light intensities and UV radiation on carotenoid and other natural prodact genes expression in *G. gracilis*, simulating current and future climate scenarios. We will expose the algae to low, medium, and high light and UV levels over six weeks, mimicking natural day-night cycles. Using quantitative PCR (qPCR) with GAPDH as a reference gene, we will measure changes in carotenoid and naturl product gene expression. This research will provide insights into how *G. gracilis* responds to environmental stressors linked to climate change and offer guidance for optimizing its commercial cultivation to produce high-value natural products.
 
-![alt text](images/Gracilaria gracilis.png.png)
+![Gracilaria gracilis](https://github.com/user-attachments/assets/076e778c-cb40-4473-8d23-fb6a8798b6c2)
+
 
 To study the impact of light and UV radiation on *Gracilaria gracilis*, samples will be collected from the Israeli Mediterranean coast, ensuring that collection times are consistent to minimize variability. After rinsing, these samples will be placed in aerated seawater aquariums. 
 
 In the controlled environment, multiple aquariums will be prepared, each exposed to different light intensities and UV radiation levels using LED lights and UVB lamps. A control group will be maintained with all other environmental factors, such as temperature, salinity, and nutrients, kept constant. Samples will be harvested after 2, 4, and 6 weeks to assess the effects over time.
 
-Carotenoid biosynthesis genes will be identified through public databases like NCBI, with homologous genes in *G. gracilis* found using BLAST. 
+Carotenoid and natural product biosynthesis genes will be identified through public databases such as [NCBI](https://www.ncbi.nlm.nih.gov/), with homologous genes in *G. gracilis* found using [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi).
 
-Specific primers will be designed using Primer3, and their specificity will be confirmed through PCR validation.
+The reference gene for the qPCR process was selected from previous articles, and the first gene selected for testing is thiG which involved in the biosynthesis of thiamine (vitamin B1), you can read more about the selection process [here](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/posts/2024-07-10-Primer%20selection%20for%20qPCR%20Experiment%20-%20class.md).
 
-For gene expression quantification, RNA will be extracted from the samples and its quality assessed using NanoDrop and gel electrophoresis. This RNA will then be converted into cDNA, and qPCR will be performed using the 16S gene for normalization. The resulting data will be analyzed statistically to determine significant differences in gene expression across the various treatment conditions.
+Specific primers will be designed using [Primer3](https://primer3.ut.ee/), and their specificity will be confirmed through PCR validation. A full protocol on primer design can be found [here](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/posts/2024-07-04-Primer%20Design%20-%20class.md).
+
+For gene expression quantification, RNA will be extracted from the samples and its quality assessed using NanoDrop and gel electrophoresis. This RNA will then be converted into cDNA, and qPCR will be performed using the GAPDH gene for normalization. The resulting data will be analyzed statistically to determine significant differences in gene expression across the various treatment conditions using [this](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/scripts/R%20script%20ggplot.r) R script, and by [this](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/posts/2024-07-05-Protocol%20for%20Analyzing%20qPCR%20Results%20class.md) protocol.
 
 ![alt text](images/proposal.png)
+
+In addition to the wet work, bioinformatic analysis was conducted.
+We wanted to see which species Gracilaria gracilis is close to and it is possible that they behave similarly to Gracilaria gracilis in response to different light and radiation conditions. For this purpose we built a phylogenetic tree according to [this](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/posts/2024-07-04-Protocol%20-%20Creating%20a%20Phylogenetic%20Tree%20Based%20on%20a%20Conserved%20Gene%20-%20class.md) protocol.
+
+![alt text]()
 
 ### Impact
 
