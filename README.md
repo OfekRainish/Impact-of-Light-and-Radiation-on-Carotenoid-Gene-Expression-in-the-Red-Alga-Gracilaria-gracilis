@@ -19,7 +19,9 @@ The reference gene for the qPCR process was selected from previous articles, and
 
 Specific primers will be designed using Primer3, and their specificity will be confirmed through PCR validation. A full protocol on primer design can be found [here](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/posts/2024-07-04-Primer%20Design%20-%20class.md).
 
-For gene expression quantification, RNA will be extracted from the samples and its quality assessed using NanoDrop and gel electrophoresis. This RNA will then be converted into cDNA, and qPCR will be performed using the GAPDH gene for normalization. The resulting data will be analyzed statistically to determine significant differences in gene expression across the various treatment conditions using [this](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/scripts/R%20script%20ggplot.r) R script, and by [this]() protocol.
+For gene expression quantification, RNA will be extracted from the samples and its quality assessed using NanoDrop and gel electrophoresis. This RNA will then be converted into cDNA, and qPCR will be performed using the GAPDH gene for normalization. The resulting data will be analyzed statistically to determine significant differences in gene expression across the various treatment conditions using [this](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/scripts/R%20script%20ggplot.r) R script, and by [this](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/posts/2024-07-05-Protocol%20for%20Analyzing%20qPCR%20Results%20class.md) protocol.
+
+
 
 ![alt text](images/proposal.png)
 
