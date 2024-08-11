@@ -6,7 +6,7 @@ Carotenoids, pigments crucial for photosynthesis, also protect algae from light-
 
 Our study aims to investigate the impact of varying light intensities and UV radiation on carotenoid gene expression in *G. gracilis*, simulating current and future climate scenarios. We will expose the algae to low, medium, and high light and UV levels over six weeks, mimicking natural day-night cycles. Using quantitative PCR (qPCR) with 16S rRNA as a reference gene, we will measure changes in carotenoid gene expression. This research will provide insights into how *G. gracilis* responds to environmental stressors linked to climate change and offer guidance for optimizing its commercial cultivation to produce high-value carotenoids.
 
-![alt text](images/Gracilaria gracilis.png.png)
+![alt text](images/Gracilaria gracilis.png)
 
 To study the impact of light and UV radiation on *Gracilaria gracilis*, samples will be collected from the Israeli Mediterranean coast, ensuring that collection times are consistent to minimize variability. After rinsing, these samples will be placed in aerated seawater aquariums. 
 
