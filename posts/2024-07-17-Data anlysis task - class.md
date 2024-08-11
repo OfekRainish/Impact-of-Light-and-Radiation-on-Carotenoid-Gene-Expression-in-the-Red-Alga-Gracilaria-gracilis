@@ -68,4 +68,5 @@ The correlation coefficient is **0.3116275**. It means that there is a weak to m
 
 
 [raw data](../exel%20files/Photosurvey_metadata%20class.csv)
+
 [R script](../scripts/R%20script%20ggplot.r)
