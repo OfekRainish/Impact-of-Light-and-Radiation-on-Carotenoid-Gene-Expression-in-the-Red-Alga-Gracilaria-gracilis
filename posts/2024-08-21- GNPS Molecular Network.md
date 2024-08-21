@@ -14,7 +14,7 @@ The mass difference may suggest a substitution between valine and alanine, methi
 
 ![UNIMOD Table](../results/GNPS%20UNIMOD.png)
 
-[Link to the job at GNPS](task=65fc168c2e01456d8a94a4ef086c4be0&view=group_by_compound)
+[Link to the job at GNPS](https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=65fc168c2e01456d8a94a4ef086c4be0&view=group_by_compound)
 
 ## references 
 1. Patiño, A. D., Montoya-Giraldo, M., Quintero, M., López-Parra, L. L., Blandón, L. M., & Gómez-León, J. (2021). Dereplication of antimicrobial biosurfactants from marine bacteria using molecular networking. Scientific Reports, 11(1), 16286.
