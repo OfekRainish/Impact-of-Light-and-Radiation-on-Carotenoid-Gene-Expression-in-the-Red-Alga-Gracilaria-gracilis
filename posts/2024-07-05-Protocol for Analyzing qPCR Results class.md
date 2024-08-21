@@ -82,4 +82,4 @@ You are provided with an Excel table containing Ct values, where:
 
 By following these steps, you can accurately analyze and visualize the relative gene expression levels in control and treated samples using qPCR data. This analysis provides insights into the effects of the treatment on the expression of specific genes.
 
-[raw data](../Mata%20data/Excercise%20qPCR.cvs)
+[raw data](../Mata%20data/Excercise%20qPCR.csv)
