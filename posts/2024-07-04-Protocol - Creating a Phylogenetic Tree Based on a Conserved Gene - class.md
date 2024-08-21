@@ -85,7 +85,7 @@ This protocol outlines the steps to create a phylogenetic tree using the conserv
 
 4. **Customize the Tree View:**
    - Use Mega11’s tools to adjust the appearance and labels of the tree as required.
-![alt text](../images/mega11(8).png)
+![alt text](../results/tree.png)
 ---
 
 This protocol provides a step-by-step guide for constructing a phylogenetic tree using the conserved **rbcL** gene from red algae species. By following these steps, you can visualize the evolutionary relationships between the chosen species based on their gene sequences.

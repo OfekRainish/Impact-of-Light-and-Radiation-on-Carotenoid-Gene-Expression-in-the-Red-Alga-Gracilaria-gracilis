@@ -51,7 +51,7 @@ I will employ three statistical tools:
 
 4. 
 
-![alt text](../images/data%20anlysisn%20class.png)
+![alt text](../results/data%20anlysisn%20class.png)
 
 
    It can be seen from the graph that chordata were not found at all at a depth of 10 meters in any of the sites.
@@ -60,7 +60,7 @@ Another interesting thing is that at the Akziv site, Chordata were only found at
 ## Correlation between Porifera and Chordata
 Here I wanted to check if there is a correlation between these two groups.
 
-![alt text](../images/cor%20plot%201.png)
+![alt text](../results/cor%20plot%201.png)
 
 The correlation coefficient is **0.3116275**. It means that there is a weak to moderate tendency for Porifera and Chordata to increase together, according tp the Photosurvey dataset. However, this connection is not very strong, so there is still a lot of variation that this relationship doesn't explain.
 
