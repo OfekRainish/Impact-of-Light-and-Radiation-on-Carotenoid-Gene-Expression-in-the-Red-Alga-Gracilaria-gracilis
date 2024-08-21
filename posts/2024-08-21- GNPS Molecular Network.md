@@ -1,6 +1,6 @@
 ## GNPS Molecular Network Analysis
 
-Here, I used GNPS to create a network of molecules. I focused on a type of surfactin and examined the network of molecules that are close to it in terms of the similarity of their MS/MS spectra.
+Here, I used GNPS to create a network of molecules. I focused on a type of surfactin and examined the network of molecules that are close to it in terms of the similarity of their MS/MS spectra. the raw data (linked blow) was taken from the paper *Dereplication of antimicrobial biosurfactants from marine bacteria using molecular networking* (1). 
 
 ![Network Image](../results/GNPS%20network.png)
 
@@ -14,4 +14,7 @@ The mass difference may suggest a substitution between valine and alanine, methi
 
 ![UNIMOD Table](../results/GNPS%20UNIMOD.png)
 
-[Link to the job at GNPS](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=5e44c9fb091c4ce7bd7ab81a71d061e2)
+[Link to the job at GNPS](task=65fc168c2e01456d8a94a4ef086c4be0&view=group_by_compound)
+
+## references 
+1. Patiño, A. D., Montoya-Giraldo, M., Quintero, M., López-Parra, L. L., Blandón, L. M., & Gómez-León, J. (2021). Dereplication of antimicrobial biosurfactants from marine bacteria using molecular networking. Scientific Reports, 11(1), 16286.
