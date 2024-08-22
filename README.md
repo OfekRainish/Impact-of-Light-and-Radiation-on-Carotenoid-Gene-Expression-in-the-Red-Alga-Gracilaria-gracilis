@@ -46,7 +46,7 @@ In addition to my main research, I explored tools that would enhance my knowledg
 
    You can read more about this experience [here](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/posts/2024-07-17-Data%20anlysis%20task%20-%20class.md).
 
-   I can leverage this knowledge to create similar graphs that depict the expression levels of a specific natural substance or carotenoid under varying light intensities and radiation exposures.
+   I can leverage this knowledge to create similar graphs that depict the expression levels of a specific natural substance or carotenoid under varying light intensities and radiation exposures in *Gracilaria gracilis*.
 
 2. **Molecular Network Creation with GNPS:**
    I learned to use the GNPS software to create molecular networks based on MS/MS spectral similarity. For example, I analyzed the surfactin molecule and identified molecules with similar MS/MS profiles. This tool enables the discovery of new molecules and helps in understanding structural modifications compared to known molecules.
