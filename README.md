@@ -1,4 +1,4 @@
-### Overview
+## Overview
 
 Global warming is significantly impacting marine ecosystems by raising water temperatures, increasing acidity, and intensifying UV radiation, all of which pose serious challenges to marine organisms, particularly macroalgae. *Gracilaria gracilis*, a red alga found along Israel's Mediterranean coast, plays a vital role in its ecosystem. As a primary producer, it supports marine life and is also commercially valuable for its bioactive compounds.
 
