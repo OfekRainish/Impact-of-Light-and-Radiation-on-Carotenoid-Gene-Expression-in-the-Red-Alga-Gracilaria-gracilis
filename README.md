@@ -27,7 +27,9 @@ In addition to the wet work, bioinformatic analysis was conducted.
 
 We wanted to see which species *Gracilaria gracilis* is close to, since it is possible that they behave similarly to *Gracilaria gracilis* in response to different light and radiation conditions. For this purpose we built a phylogenetic tree according to [this](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/posts/2024-07-04-Protocol%20-%20Creating%20a%20Phylogenetic%20Tree%20Based%20on%20a%20Conserved%20Gene%20-%20class.md) protocol.
 
-![alt text](images/tree.png)
+![tree](https://github.com/user-attachments/assets/fe5ab10b-ff64-405e-909b-6bc9806ebf12)
+
+
 
 
 ### Impact
