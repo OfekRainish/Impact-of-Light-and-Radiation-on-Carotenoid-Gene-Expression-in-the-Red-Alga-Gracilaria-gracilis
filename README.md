@@ -30,8 +30,29 @@ We wanted to see which species *Gracilaria gracilis* is close to, since it is po
 ![tree](https://github.com/user-attachments/assets/fe5ab10b-ff64-405e-909b-6bc9806ebf12)
 
 
-
-
 ### Impact
 
 This research will elucidate *G. gracilis*'s adaptive mechanisms through carotenoid gene expression in response to varying light and radiation levels, enhancing our understanding of macroalgae resilience to climate change. Furthermore, it will provide critical insights for the commercial cultivation of *G. gracilis* for high-value carotenoid production, contributing to the sustainable development of coastal ecosystems and the blue economy.
+
+## Additional Research Tools and Learning
+
+In addition to my main research, I explored tools that would enhance my knowledge and assist in my research efforts.
+
+1. **Graph Creation and Statistical Analysis with R:**
+   I experimented with creating graphs and performing statistical analyses using the R language. The code mentioned above was used along with [this_code]() and [this_data]() to generate a graph illustrating the percentage of coverage (in images) of chordata at two different sites in the Mediterranean Sea (Achziv and Sdot Yam), across two different seasons (autumn and spring), and at three different depths (10, 25, 45 meters).
+
+   ![Graph Image](image)
+
+   You can read more about this experience [here](link).
+
+   I can leverage this knowledge to create similar graphs that depict the expression levels of a specific natural substance or carotenoid under varying light intensities and radiation exposures.
+
+2. **Molecular Network Creation with GNPS:**
+   I learned to use the GNPS software to create molecular networks based on MS/MS spectral similarity. For example, I analyzed the surfactin molecule and identified molecules with similar MS/MS profiles. This tool enables the discovery of new molecules and helps in understanding structural modifications compared to known molecules.
+
+   ![GNPS Network Image](image)
+
+   More about my experience with GNPS can be read [here](link).
+
+   To add another layer to my research, I could investigate natural materials similar to those I focus on in my studies and determine if they are also produced by *Gracilaria gracilis* or related species.
+
