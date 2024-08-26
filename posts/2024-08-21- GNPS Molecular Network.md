@@ -1,6 +1,6 @@
 ## GNPS Molecular Network Analysis
 
-Here, I used GNPS to create a network of molecules. I focused on a type of surfactin and examined the network of molecules that are close to it in terms of the similarity of their MS/MS spectra. the raw data (linked blow) was taken from the paper *Dereplication of antimicrobial biosurfactants from marine bacteria using molecular networking* (1). 
+Here, I used [GNPS](https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp) to create a network of molecules. I focused on a type of surfactin and examined the network of molecules that are close to it in terms of the similarity of their MS/MS spectra. the raw data (linked blow) was taken from the paper *Dereplication of antimicrobial biosurfactants from marine bacteria using molecular networking* (1). 
 
 ![Network Image](../results/GNPS%20network.png)
 

@@ -1,4 +1,4 @@
-### Overview
+## Overview
 
 Global warming is significantly impacting marine ecosystems by raising water temperatures, increasing acidity, and intensifying UV radiation, all of which pose serious challenges to marine organisms, particularly macroalgae. *Gracilaria gracilis*, a red alga found along Israel's Mediterranean coast, plays a vital role in its ecosystem. As a primary producer, it supports marine life and is also commercially valuable for its bioactive compounds.
 
@@ -27,9 +27,34 @@ In addition to the wet work, bioinformatic analysis was conducted.
 
 We wanted to see which species *Gracilaria gracilis* is close to, since it is possible that they behave similarly to *Gracilaria gracilis* in response to different light and radiation conditions. For this purpose we built a phylogenetic tree according to [this](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/posts/2024-07-04-Protocol%20-%20Creating%20a%20Phylogenetic%20Tree%20Based%20on%20a%20Conserved%20Gene%20-%20class.md) protocol.
 
-![alt text](images/tree.png)
+![tree](https://github.com/user-attachments/assets/fe5ab10b-ff64-405e-909b-6bc9806ebf12)
 
 
 ### Impact
 
 This research will elucidate *G. gracilis*'s adaptive mechanisms through carotenoid gene expression in response to varying light and radiation levels, enhancing our understanding of macroalgae resilience to climate change. Furthermore, it will provide critical insights for the commercial cultivation of *G. gracilis* for high-value carotenoid production, contributing to the sustainable development of coastal ecosystems and the blue economy.
+
+### Additional Research Tools and Learning
+
+In addition to my main research, I explored tools that would enhance my knowledge and assist in my research efforts.
+
+1. **Graph Creation and Statistical Analysis with R:**
+   I experimented with creating graphs and performing statistical analyses using the R language. The code mentioned above was used along with [this_code](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/scripts/R%20script%20ggplot.r) and [this_data](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/Mata%20data/Photosurvey_metadata%20class.csv) to generate a graph illustrating the percentage of coverage (in images) of chordata at two different sites in the Mediterranean Sea (Achziv and Sdot Yam), across two different seasons (autumn and spring), and at three different depths (10, 25, 45 meters).
+
+![image](https://github.com/user-attachments/assets/cfbbbc14-e010-466f-b7d7-c85cbc6295e8)
+
+
+   You can read more about this experience [here](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/posts/2024-07-17-Data%20anlysis%20task%20-%20class.md).
+
+   I can leverage this knowledge to create similar graphs that depict the expression levels of a specific natural substance or carotenoid under varying light intensities and radiation exposures in *Gracilaria gracilis*.
+
+2. **Molecular Network Creation with GNPS:**
+   I learned to use the GNPS software to create molecular networks based on MS/MS spectral similarity. For example, I analyzed the surfactin molecule and identified molecules with similar MS/MS profiles. This tool enables the discovery of new molecules and helps in understanding structural modifications compared to known molecules.
+
+![image](https://github.com/user-attachments/assets/e588da7e-51e8-4690-b802-ddf7a9c0006e)
+
+
+   More about my experience with GNPS can be read [here](https://github.com/OfekRainish/Impact-of-Light-and-Radiation-on-Carotenoid-Gene-Expression-in-the-Red-Alga-Gracilaria-gracilis/blob/main/posts/2024-08-21-%20GNPS%20Molecular%20Network.md).
+
+   To add another layer to my research, I could investigate natural materials similar to those I focus on in my studies and determine if they are also produced by *Gracilaria gracilis* or related species.
+
